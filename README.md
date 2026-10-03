@@ -1,7 +1,7 @@
 # Highest trees of random mappings: exact values and simulations
 
 Code and data for Section 5 of the paper *Highest Trees of Random Mappings*
-([arXiv:1504.04532](https://arxiv.org/abs/)). Repository: <https://github.com/berlm/unique-highest-tree>.
+([arXiv:1504.04532](https://arxiv.org/abs/1504.04532)). Repository: <https://github.com/berlm/unique-highest-tree>.
 
 A random mapping of `n` elements is viewed as a functional graph. The *depth* of
 a vertex is its distance to the cycles. For `c >= 0`, a *c-branch* is the subtree
